@@ -1,2 +1,8 @@
-# azure_AI_language_studio
+# Language Studio no Azure AI
 Bootcamp Back-end Avanade
+
+##
+##
+##
+##
+##
